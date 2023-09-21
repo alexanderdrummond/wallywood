@@ -1,0 +1,64 @@
+.home-container {
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.curtain-image {
+  width: 100%;
+  height: 300px;
+  border-radius: 3px;
+  object-fit: cover;
+}
+
+.latest-news {
+  margin-top: 20px;
+}
+
+.news-title {
+  color: #d97852;
+  font-size: 24px;
+}
+
+.movie-module-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.movie-module {
+  display: flex;
+  gap: 20px;
+  width: 49%;
+  align-items: flex-start;
+}
+
+.poster {
+  width: 140px;
+  height: 200px;
+  background-color: black;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.movie-title {
+  margin: 0;
+}
+
+.badge {
+  background-color: #ececec;
+  width: 30%;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.cta-button {
+  align-self: flex-start;
+}

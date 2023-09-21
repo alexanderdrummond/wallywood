@@ -1,0 +1,32 @@
+.om-os-container {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .text-section {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  .text-section h1 {
+    margin-bottom: 20px;
+  }
+  
+  .text-section p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+  .image-section {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-section img {
+    width: 100%;
+    object-fit: cover;
+  }
+  

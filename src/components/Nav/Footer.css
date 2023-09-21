@@ -1,0 +1,38 @@
+.footer {
+    width: 90%;
+    margin: 40px auto 0 auto;
+  }
+  
+  .footer-divider {
+    border: 0;
+    height: 1px;
+    background-color: #ccc; 
+    margin-bottom: 20px; 
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px
+  }
+  
+  .footer-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+  }
+  
+  .footer-row {
+    /* might use */
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 10px; 
+  }
+  
+  .social-icon {
+    width: 24px; 
+    height: 24px;
+  }
+  

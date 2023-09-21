@@ -1,0 +1,8 @@
+.content-box {
+    background-color: #ffffff;
+    width: 80%; 
+    margin: 0 auto;
+    padding-top: 20px;
+    box-sizing: border-box;
+  }
+  
